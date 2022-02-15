@@ -58,10 +58,10 @@ predict_class = kmeans.predict([[9000,1200]])
 print("Cluster group for application income 9000 and loanamount 120 is",predict_class)
 
 ```
-## CSV file:
 
 ## Output:
 
+![image](https://user-images.githubusercontent.com/94164665/154079504-4f2227e7-41c2-44b2-b0bb-b284fc64db28.png)
 
 
 ## Result
